@@ -23,10 +23,12 @@ Upon visiting the website via Heroku, a user can
 - [Express](https://www.npmjs.com/package/express)
 - [Babel](https://babeljs.io/docs/en/babel-node)
 - [Workbox](https://www.npmjs.com/package/workbox-webpack-plugin)
+- [Heroku](https://www.heroku.com)
+- [JawsDB](https://www.jawsdb.com/)
 
 
 ## Screenshot
-![2022-02-03 (5)](./client/src/images/mtfjate.jpg)
+![JATE Screenshot](./client/src/images/mtfjate.jpg)
 
 ## Website
 Check out the [live app](https://mtf-jate.herokuapp.com/)!
